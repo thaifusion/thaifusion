@@ -3,7 +3,7 @@
 👩‍🎓 Third year IT-student at the University of South-Eastern Norway <br/>
 ✍️ Currently working on: Portfolio website <br/>
 💭 Currently learning: Astro + Tailwind + Sanity CMS <br/>
-✨ Other interests: Art, knitting, coffee, plants, gaming <br/>
+✨ Other interests: Art, knitting, coffee, plants, gaming, books <br/>
 
  ---
 
