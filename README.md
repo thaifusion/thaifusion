@@ -7,7 +7,7 @@
 
  ---
 
-### 🧰 Languages and Tools:
+### 🧰 Familiar with:
 <p align="left"> 
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img align="left" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
   </a>
