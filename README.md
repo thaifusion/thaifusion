@@ -1,8 +1,8 @@
 # Hello World! I'm Sara 🌻
 
-👩‍🎓 Third year IT-student at the University of South-Eastern Norway <br/>
-✍️ Currently working on: Portfolio website <br/>
-💭 Currently learning: Astro + Tailwind + Sanity CMS <br/>
+👩‍🎓 Recent graduate in Bachelor in Information Technology at the University of South-Eastern Norway <br/>
+✍️ Currently working on: Music player made with Java and pixel art <br/>
+💭 Currently learning: Aseprite <br/>
 ✨ Other interests: Art, knitting, coffee, plants, gaming, books <br/>
 
  ---
